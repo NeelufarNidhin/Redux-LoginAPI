@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReduxJWTLogin", "ReduxJWTLogin\ReduxJWTLogin.csproj", "{5D5B9C0E-1444-4DAC-85E5-C7DCC3B2A68B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D5B9C0E-1444-4DAC-85E5-C7DCC3B2A68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5B9C0E-1444-4DAC-85E5-C7DCC3B2A68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5B9C0E-1444-4DAC-85E5-C7DCC3B2A68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5B9C0E-1444-4DAC-85E5-C7DCC3B2A68B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEECAEDE-DE18-4691-BA02-7F2568890EEB}
+	EndGlobalSection
+EndGlobal
